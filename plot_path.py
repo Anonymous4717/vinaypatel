@@ -1,7 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 import numpy as np
-
+#to get the position of mouse, movement and client . eg patriotctf2023 read the eula
 
 def plot_path(coords):
     # Unzip the coordinates
